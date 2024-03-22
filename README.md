@@ -7,7 +7,7 @@ The project aims to build a data model using a dataset and create a data pipelin
 ![Uber Data Model](https://github.com/Maaztajmohammed/uber-data-engineering-project/blob/main/Uber%20Data%20Model.jpeg)
 
 ### Cloud Platform Used :
-Google Cloud Platform (GCP)
+Amazon Web Services (AWS)
 
 ### Cloud Services Used : 
 1. EC2 - Used this service to create an instance to deploy the orchestration tool and run the pipeline.
